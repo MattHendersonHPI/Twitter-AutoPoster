@@ -29,18 +29,20 @@ recent_posts = {"HPiRVA": [], "mrmatthenderson": []}
 
 # Templates for @HPiRVA (PI-focused)
 templates_hpirva = [
-    "Uncovering truth with precision at HP Investigations. #PrivateInvestigator #RichmondVA",
-    "OSINT tip: Cross-check public records for reliable insights. #OSINT #Investigations",
-    "Serving Virginia with expert investigative services. Contact us! #HPInvestigations",
-    "Stay vigilant: Background checks can reveal critical details. #PrivateInvestigator",
+    "Need answers? HP Investigations delivers discreet, professional results. www.hpinvestigations.com #PrivateInvestigator",
+    "OSINT tip: Public records can unlock critical insights. Contact us! #OSINT #RichmondVA",
+    "Serving Virginia with expert investigations since 2019. #HPInvestigations",
+    "Trust and precision in every case. Reach out at www.hpinvestigations.com #PrivateInvestigator",
+    "Uncover the truth with our advanced investigative tools. #VirginiaPI",
 ]
 
-# Templates for @mrmatthenderson (personal/motivational)
+# Templates for @mrmatthenderson (motivational/personal)
 templates_mrmatthenderson = [
-    "Keep pushing forward, no matter the challenge! #Motivation #Virginia",
-    "Every day is a chance to learn something new. #Python #GrowthMindset",
-    "Exploring tech and truth in the Piedmont. #LifeLessons",
-    "Stay curious and keep investigating! #PersonalGrowth",
+    "Every challenge is a chance to grow. Keep pushing! #Motivation #Virginia",
+    "Learning Python one script at a time. Join me! #Coding #Tech",
+    "Stay curious, stay learning. #GrowthMindset #PiedmontPathfinder",
+    "Life’s mysteries are worth exploring. #PersonalGrowth",
+    "Building tools and chasing goals in VA. #Python #Motivation",
 ]
 
 def post_to_hpirva():
