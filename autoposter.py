@@ -34,6 +34,7 @@ templates_hpirva = [
     "Serving Virginia with expert investigations since 2019. #HPInvestigations",
     "Trust and precision in every case. Reach out at www.hpinvestigations.com #PrivateInvestigator",
     "Uncover the truth with our advanced investigative tools. #VirginiaPI",
+    "Check my Twitter Auto-Poster: github.com/MattHendersonHPI/Twitter-AutoPoster #Python #HPInvestigations",
 ]
 
 # Templates for @mrmatthenderson (motivational/personal)
@@ -43,6 +44,7 @@ templates_mrmatthenderson = [
     "Stay curious, stay learning. #GrowthMindset #PiedmontPathfinder",
     "Life’s mysteries are worth exploring. #PersonalGrowth",
     "Building tools and chasing goals in VA. #Python #Motivation",
+    "Built a Twitter Auto-Poster in Python! See it: github.com/MattHendersonHPI/Twitter-AutoPoster #Coding #Motivation",
 ]
 
 def post_to_hpirva():
