@@ -29,22 +29,20 @@ recent_posts = {"HPiRVA": [], "mrmatthenderson": []}
 
 # Templates for @HPiRVA (PI-focused)
 templates_hpirva = [
-    "Need answers? HP Investigations delivers discreet, professional results. www.hpinvestigations.com #PrivateInvestigator",
-    "OSINT tip: Public records can unlock critical insights. Contact us! #OSINT #RichmondVA",
-    "Serving Virginia with expert investigations since 2019. #HPInvestigations",
-    "Trust and precision in every case. Reach out at www.hpinvestigations.com #PrivateInvestigator",
-    "Uncover the truth with our advanced investigative tools. #VirginiaPI",
-    "Check my Twitter Auto-Poster: github.com/MattHendersonHPI/Twitter-AutoPoster #Python #HPInvestigations",
+    "Discreet investigations with proven results. Contact HP Investigations today! www.hpinvestigations.com #PrivateInvestigator #RichmondVA",
+    "OSINT tip: Social media can reveal hidden truths. Let us dig deeper for you. www.hpinvestigations.com #OSINT #HPInvestigations",
+    "Solving cases with precision in Virginia. Trust HP Investigations. www.hpinvestigations.com #PrivateInvestigator",
+    "Need clarity on a case? Our expertise delivers answers. www.hpinvestigations.com #VirginiaPI",
+    "Check my Python auto-poster that powers our social media! github.com/MattHendersonHPI/Twitter-AutoPoster #Python #HPInvestigations"
 ]
 
 # Templates for @mrmatthenderson (motivational/personal)
 templates_mrmatthenderson = [
-    "Every challenge is a chance to grow. Keep pushing! #Motivation #Virginia",
-    "Learning Python one script at a time. Join me! #Coding #Tech",
-    "Stay curious, stay learning. #GrowthMindset #PiedmontPathfinder",
-    "Life’s mysteries are worth exploring. #PersonalGrowth",
-    "Building tools and chasing goals in VA. #Python #Motivation",
-    "Built a Twitter Auto-Poster in Python! See it: github.com/MattHendersonHPI/Twitter-AutoPoster #Coding #Motivation",
+    "I don’t always code, but when I do, I build Python bots. Stay curious, my friends! github.com/MattHendersonHPI/Twitter-AutoPoster #Python",
+    "Challenges? I turn them into opportunities. Keep growing, my friends! #Motivation #Coding",
+    "I don’t always debug, but when I do, I conquer. Join me in coding! #Python #GrowthMindset",
+    "Curiosity fuels progress. Learning Python one script at a time. github.com/MattHendersonHPI/Twitter-AutoPoster #Tech",
+    "I don’t always automate, but my Twitter bot runs 24/7. Stay curious, my friends! #Python #Motivation"
 ]
 
 def post_to_hpirva():
